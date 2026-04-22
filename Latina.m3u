@@ -1,4 +1,281 @@
-#EXTM3U
+#EXTINF:-1 group-title="CARPETA PRUEBA" tvg-logo="",DEPORTES TVC PRUEBA 2
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1495026.m3u8
+#EXTINF:-1 group-title="CARPETA PRUEBA" tvg-logo="",DEPORTES TVC PRUEBA
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1495025.m3u8
+#EXTINF:-1 group-title="CARPETA PRUEBA" tvg-logo="",DEPORTES TVC PRUEBA 3
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1515470.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/teletica7.jpg?width=320&height=320&fit=bounds",CR | Teletica 7
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331403.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/teletica7.jpg?width=320&height=320&fit=bounds",CR | Canal 7 Teletica
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/332669.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/repretel11.jpg?width=320&height=320&fit=bounds",CR | Repretel 11
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/867731.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/repretel11.jpg?width=320&height=320&fit=bounds",CR | Repretel 11 (DIRECTO SOLO CR)
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1485390.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/repretel11.jpg?width=320&height=320&fit=bounds",CR | Repretel 11 Opc2
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331401.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/repretel4.jpg?width=320&height=320&fit=bounds",CR | Repretel 4
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331396.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/repretel4.jpg?width=320&height=320&fit=bounds",CR | Repretel 4 (DIRECTO SOLO CR)
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1485392.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/repretel4.jpg?width=320&height=320&fit=bounds",CR | Repretel 4 Opc. 2
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331397.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/repretel6.jpg?width=320&height=320&fit=bounds",CR | Repretel 6
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331398.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/repretel6.jpg?width=320&height=320&fit=bounds",CR | Repretel 6 (DIRECTO SOLO CR)
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1485391.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/repretel6.jpg?width=320&height=320&fit=bounds",CR | Repretel 6 Opc 2
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/849684.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/TD_2.jpg?width=320&height=320&fit=bounds",CR | TD+ 2 HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/565460.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/TD_.jpg?width=320&height=320&fit=bounds",CR | TD+ HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/459346.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/TDMAX.jpg?width=319&height=320&fit=bounds",CR | TD-MAX FUTBOL
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/867344.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/FUTV_iRKNcazYv1rB37NzYLEMac.jpg?width=319&height=320&fit=bounds",CR | FUTV OP1
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331409.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/FUTV_iRKNcazYv1rB37NzYLEMac.jpg?width=319&height=320&fit=bounds",CR | FUTV OP2
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/355101.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/FUTV_iRKNcazYv1rB37NzYLEMac.jpg?width=319&height=320&fit=bounds",CR | FUTV OP3 (EVENTOS)
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331423.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/TELESISTEMA.jpg?width=319&height=320&fit=bounds",CR | TELESISTEMA TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/816963.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/tigo.jpg?width=320&height=320&fit=bounds",CR |  TIGO SPORTS
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331437.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/tigo.jpg?width=320&height=320&fit=bounds",CR | TigoSport (Solo Eventos)
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/332666.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://archive.org/download/whats-app-image-2024-06-05-at-9.23.29-pm/WhatsApp%20Image%202024-06-05%20at%209.23.29%20PM.jpeg",CR/ Turrialba
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1425764.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/88_STEREO.jpg?width=320&height=320&fit=bounds",CR | 88 STEREO RADIO TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/825114.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.coolstreaming.us/img/ch/image6702628824.jpg",CR | ANTENA SEIS TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/816966.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/canal_1.jpg?width=320&height=320&fit=bounds",CR | CANAL 1
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/790838.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/CANAL_10_CR_LOGO.png?width=0&height=0&fit=bounds",CR | Canal 10
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1381945.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/CANAL_10.1_CR_LOGO.png?width=0&height=0&fit=bounds",CR | Canal 10.1
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1381946.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/13.jpg?width=320&height=320&fit=bounds",CR | Canal 13
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331412.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/2_(1).jpg?width=320&height=320&fit=bounds",CR | CANAL 2
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/780565.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/Canal38.jpg?width=320&height=320&fit=bounds",CR | Canal 38
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331431.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/KMK.jpg?width=590&height=590&fit=bounds",CR | CANAL 3 KMK
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1364753.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://merakitvapk.com/IMAGENES/logog.jpg",CR | Colosal FM
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1464837.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/COLOSAL.jpg?width=320&height=320&fit=bounds",CR | COLOSAL TV CANAL 9
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/813849.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/CRC.jpg?width=0&height=0&fit=bounds",CR | Costa Rica Channel
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1434260.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.coolstreaming.us/img/ch/image44256926188.jpg",CR | COTO BRUS TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/816958.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/Logo-De-Dreiko-Nuevo-1-400x267.webp?width=320&height=320&fit=bounds",CR | Dreiko TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1384885.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1723-294x165-FFFFFF.jpg",CR | El Viviente TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1385289.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/5hvLwQW/PERFIL-EMRadio-4.jpg",CR | EM RADIO
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1469098.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/Enlace_(1).jpg?width=320&height=320&fit=bounds",CR | ENLACE TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/816960.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/Esperanza_TV.jpg?width=320&height=320&fit=bounds",CR | Esperanza TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331432.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="http://beta.extratv42.com/wp-content/uploads/2020/08/Logo-Extra-TV2.png",CR | EXTRA TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/801067.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/Extrema_TV.jpg?width=320&height=320&fit=bounds",CR |  Extrema TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331433.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.coolstreaming.us/img/ch/image3065728675.jpg",CR | GARABITO TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/816959.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/gatuso.jpg?width=319&height=320&fit=bounds",CR | GUATUSO TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/816962.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://interamerica.org/wp-content/uploads/2017/06/hope.png",CR | HOPE CHANNEL INTERAMERICA
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1382110.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.postimg.cc/V6YNcQxY/LIMON-TV.jpg",CR | Limon TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1426323.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/los_santos.jpg?width=319&height=320&fit=bounds",CR | LOS SANTOS TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/816961.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/DKXnv4W/4851cb7b-319f-4f83-99d6-21ada4bf6c2c.jpg",CR | LUZ NACIENTE
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1396112.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://meganettv.fun/storage/channel-logos/rU7WhuVKnLAwYtE6xKIBJSB7PBjp3Oc5uqzpgB8X.png",CR | MEGA HITS HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/834169.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/multimedios.jpg?width=320&height=320&fit=bounds",CR | Canal 8 Multimedios HD OP1
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/332672.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/multimedios.jpg?width=320&height=320&fit=bounds",CR | Canal 8 Multimedios HD OP2
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/855258.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/NicoyaTV.jpg?width=320&height=320&fit=bounds",CR | NICOYA TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/816964.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/20230924_213510_0000-removebg-preview.png?width=590&height=590&fit=bounds",CR | Nosara TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1381941.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/OPA.jpg?width=590&height=590&fit=bounds",CR | OPA TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1367258.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/4KPKLhL/1-LOGO-RPF-1.png",CR | RADIO PARAISOS FORMATOS
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1468106.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/86ZKzFD/Whats-App-Image-2024-09-13-at-7-58-01-PM.jpg",CR | RADIO SON TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1448840.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://radiopuertotv.net/wp-content/uploads/2023/03/cropped-RADIO-PUERTO-1.png",CR | RADIO TV PUERTO
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/834951.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/nn175/DJCATRACHO_01/R.png",CR | Retro Channel
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331434.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/unnamed_(1).png?width=320&height=320&fit=bounds",CR | Retro Palmares
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1384883.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png",CR | RETROX TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331422.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/SJTV.jpg?width=320&height=320&fit=bounds",CR | San Jose TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331435.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc_2.png",CR | SANTA CRUZ TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/877684.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://www.sanvitotelevision.com/assets/media/STV-icon.png",CR | SAN VITO TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1401634.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/STV.jpg?width=319&height=320&fit=bounds",CR | SARAPIQUI TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/790839.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://soycartago.com/wp-content/uploads/2024/05/logo-768x361.png",CR | SOY CARTAGO TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1420926.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/SOYPLANCHATV.png?width=0&height=0&fit=bounds",CR | Soy Plancha TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1362686.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg",CR | TELECLASICA
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1367297.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/Telefides.jpg?width=320&height=320&fit=bounds",CR | TeleFides
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331436.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/TELERED.jpg?width=320&height=320&fit=bounds",CR | Telered
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1461386.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/91.5.jpg?width=319&height=320&fit=bounds",CR | Teletica Radio
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1361836.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/Tele_UNO.jpg?width=320&height=320&fit=bounds",CR | Teleuno
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331424.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIWKzF8KMBbbhJlMM70tZdxyywTSQ9szrsxRQJMcxxw&s",CR | Tica TV Plus HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331440.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.ibb.co/hRWDT9X/127849146-1433785943494109-5710912886300899275-n.png",CR | TICAVISION
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1396111.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.postimg.cc/nrgx2mRK/Whats-App-Image-2024-05-24-at-11-57-28-AM.jpg",CR | TICK TV CINE
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1421249.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/Trivision.jpg?width=320&height=320&fit=bounds",CR | Trivision 36 TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331439.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://scontent.fsjo5-1.fna.fbcdn.net/v/t39.30808-6/417125748_886910473438394_5826115334598278455_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=MLoZYXThc1kQ7kNvgF19Gb6&_nc_ht=scontent.fsjo5-1.fna&oh=00_AYBUudJYkkF9qsXwVtIyBYCz9ULio1oDXcdaz6Arc3w2KA&oe=664C04D0",CR | TV CURRE PZ
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/867356.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://play-lh.googleusercontent.com/oLnpZrqqVI5HG0IOzB7YOzM81mutSVbFiUJSkbYPCwrJVetUYzPRphP14qfcY_u2XQ=w480-h960",CR | TV LA NACIONAL
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/780566.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/TVN.jpg?width=320&height=320&fit=bounds",CR | TVN CANAL 14 ZONA NORTE
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/800168.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/TV_SUR_3c2v6a8Z7Q8Gb5BSKw3EGY.jpg?width=320&height=320&fit=bounds",CR | TV Sur Canal 14
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1367254.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/Urbano.jpg?width=319&height=320&fit=bounds",CR | Urbano TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/331430.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/Imagen_de_WhatsApp_2024-03-11_a_las_15.36.54_1e08b291_(1).jpg?width=0&height=0&fit=bounds",CR | VIDA AL MÁXIMO TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1384507.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/VM_Latino.jpg?width=320&height=320&fit=bounds",CR | VM LATINO
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/816965.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/Logo_Oficial_1920_x1080.png?width=320&height=320&fit=bounds",CR | Voice over Radio
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1384502.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/XPER_TV.jpg?width=319&height=320&fit=bounds",CR | XPER TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1361845.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="",CR | YIRETH  TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1413905.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://hosting.photobucket.com/images/i/emolinav/1670604040795.jpg?width=320&height=320&fit=bounds",CR | Zurki TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1384884.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://megatvcr.net/images/logo-mega.png",CR | MEGA TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1497519.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="",RETRO TV ONLINE
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1509921.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="",TELE BRUNCA
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1509922.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="",ZURQUI TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1509923.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="",NICOYA TV
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1509924.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="",TV CARTAGO DIGITAL
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1509925.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="",TV CACHI
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1509926.m3u8
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="",CR | VIDA AL MAXIMO
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1617026.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="http://mastertv.pro:8080/images/f86528c06f450aad676a73f8e703da23.png",DAZN ES | DAZN LIGA HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/499538.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://i.imgur.com/o2oVjUs.png",DAZN ES | DAZN LIGA 2 HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/499539.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png",DAZN ES | DAZN 1 HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/61819.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://archive.org/download/dazn-f-1-logo/DAZN_F1_logo.png",DAZN ES | DAZN F1 HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/61813.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png",DAZN ES | DAZN 4 HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/61828.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN ES | DAZN 2 HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/61822.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1",DAZN ES | DAZN 3 HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/61825.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/dazn1.png",ES| DAZN 1 ESPAÑA HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621386.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/dazn1.png",ES| DAZN 2 ESPAÑA HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621382.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/DAZN%203%20ESPA%C3%91A.png",ES| DAZN 3 ESPAÑA HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621378.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/DAZN%204%20ESPA%C3%91A.png",ES| DAZN 4 ESPAÑA HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621374.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/dazn1.png",ES| DAZN 1 ESPAÑA SD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621384.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/DAZN%202%20ESPA%C3%91A.png",ES| DAZN 2 ESPAÑA SD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621380.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/DAZN%203%20ESPA%C3%91A.png",ES| DAZN 3 ESPAÑA SD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621376.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/DAZN%204%20ESPA%C3%91A.png",ES| DAZN 4 ESPAÑA SD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621372.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/dazn1.png",ES| DAZN 1 ESPAÑA FHD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621387.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/dazn1.png",ES| DAZN 2 ESPAÑA FHD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621383.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/DAZN%203%20ESPA%C3%91A.png",ES| DAZN 3 ESPAÑA FHD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621379.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/DAZN%204%20ESPA%C3%91A.png",ES| DAZN 4 ESPAÑA FHD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621375.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/dazn1.png",ES| DAZN 1 ESPAÑA HEVC
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621385.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/dazn1.png",ES| DAZN 2 ESPAÑA HEVC
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621381.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/DAZN%203%20ESPA%C3%91A.png",ES| DAZN 3 ESPAÑA HEVC
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621377.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/DAZN%204%20ESPA%C3%91A.png",ES| DAZN 4 ESPAÑA HEVC
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621373.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/it/dzn.png",ES| DAZN LA LIGA 1 HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621358.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/it/dzn.png",ES| DAZN LA LIGA 2 HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621354.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/it/dzn.png",ES| DAZN LA LIGA 1 SD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621356.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/it/dzn.png",ES| DAZN LA LIGA 2 SD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621352.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/it/dzn.png",ES| DAZN LA LIGA 1 FHD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621359.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/it/dzn.png",ES| DAZN LA LIGA 2 FHD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621355.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/it/dzn.png",ES| DAZN LA LIGA 1 HEVC
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621357.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/it/dzn.png",ES| DAZN LA LIGA 2 HEVC
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621353.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/dazn1.png",ES| DAZN F1 ESPAÑA HD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621362.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/dazn1.png",ES| DAZN F1 ESPAÑA SD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621360.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/dazn1.png",ES| DAZN F1 ESPAÑA FHD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621363.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/sp/dazn1.png",ES| DAZN F1 ESPAÑA HEVC
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621361.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/ca/dzncaleo.png",ES| DAZN ACB 1
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621371.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/ca/dzncaleo.png",ES| DAZN ACB 2
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621370.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/ca/dzncaleo.png",ES| DAZN ACB 3
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621369.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/ca/dzncaleo.png",ES| DAZN ACB 4
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621368.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/ca/dzncaleo.png",ES| DAZN ACB 5
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621367.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/ca/dzncaleo.png",ES| DAZN Baloncesto 1 FHD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621366.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/ca/dzncaleo.png",ES| DAZN Baloncesto 2 FHD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621365.m3u8
+#EXTINF:-1 group-title="DAZN ES" tvg-logo="https://lo1.in/ca/dzncaleo.png",ES| DAZN Baloncesto 3 FHD
+http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1621364.m3u8#EXTM3U
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/GQLm5qnL/Imagen-de-Whats-App-2025-10-20-a-las-00-58-53-2939c212.jpg",COL | RCN
 http://esvtechnfun.site:8080/live/WEIBTV/uJTEQ9UdBz/1461581.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Caracol_HD2_2014.png",COL | CARACOL HD2
